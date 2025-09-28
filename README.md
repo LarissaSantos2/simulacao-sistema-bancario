@@ -19,7 +19,7 @@ O objetivo é praticar **estrutura de repetição**, **condicional**, **entrada 
 - Sair do sistema com mensagem de despedida.  
 
 ## Tecnologias
-- Desenvolvido no : **Visualg**  
+- Desenvolvido no **Visualg**  
 
 ## Como usar
 
